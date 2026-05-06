@@ -60,3 +60,9 @@ def add_document_to_index(doc_name: str, chunks: list[str]):
         pickle.dump(metadata, f)
 
     return len(chunks)
+
+
+def is_already_indexed(doc_name: str) -> bool:
+    """Return True if doc_name already has chunks in the metadata store."""
+    _, metadata = build_or_load_index()
+    return any(entry["doc_name"] == doc_name for entry in metadata)
