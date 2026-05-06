@@ -1,8 +1,6 @@
 # Reflection: AI-Powered Document Search & Summarization
 
-**Author:** Daniel
 **Project:** Hackathon, Developers Institute
-**Duration:** 2 days
 **Test corpus:** 5 foundational ML papers (BERT, DistilBERT, LoRA, RAG, Attention is All You Need) plus a plain-text helper file.
 
 ---

@@ -87,7 +87,7 @@ doc_search_app/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Danieln220/AI-Powered-Document-Search-Summarization-Hackaton-2>
 cd doc_search_app
 ```
 
