@@ -1,0 +1,1 @@
+Artificial intelligence is transforming the way we work and live. Machine learning algorithms can now recognize images, translate languages, and even write code. Deep learning, a subset of machine learning, uses neural networks with many layers to learn complex patterns from large datasets. Natural language processing enables computers to understand and generate human text.
